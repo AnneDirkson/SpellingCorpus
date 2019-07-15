@@ -1,0 +1,100 @@
+Word	Correction	SentenceBit	BoS	EoS
+gleevac	gleevec	on gleevac 400	False	False
+ussually	usually	I ussually do	False	False
+wheater	whether	sure wheater the	False	False
+gleevac	gleevec	mg Gleevac.	False	False
+deficiancy	deficiency	vitamin deficiancy.	False	False
+surgerys	surgeries	the surgerys and	False	False
+reoccourances	recurrences	the reoccourances i	False	False
+ony	only	and ony have	False	False
+metastisized	metastasized	not metastisized.	False	False
+-perry-	peri-	! -Perry- Rectal	False	False
+yeras	years	many yeras later	False	False
+tollerate	tolerate	not tollerate anymore	False	False
+gllevec	gleevec	continue Gllevec.	False	False
+kontrol	control	CT-scan kontrol in	False	False
+husbond	husband	my husbond and	False	False
+gleevic	gleevec	Gleevic did	True	False
+gleevac	gleevec	on gleevac are	False	False
+frieinds	friends	My frieinds sister	False	False
+istological	histological	My istological gist	False	False
+disgnosis	diagnosis	first disgnosis was	False	False
+ededinburh	edinburgh	I am in EdEdinburh	True	True
+enought	enough	, enought ,	False	False
+oncolgy	oncology	Davis Oncolgy as	False	False
+norvay	norway	from Norvay ,	False	False
+stomack	stomach	whole stomack.	False	False
+alse	else	anyone alse out	False	False
+ovari	ovary	my ovari.	False	False
+probally	probably	its probally nothing	False	False
+abdomin	abdomen	and abdomin.	False	False
+gleevic	gleevec	to Gleevic Patient	False	False
+oncogolgist	oncologist	Your oncogolgist should	False	False
+opnion	opinion	second opnion with	False	False
+eduactional	educational	sites eduactional videos	False	False
+compleatly	completely	Good luck prayers your way . i'll be going for my third soon it looks like.i had second one on aug 29th and they missed it compleatly	True	True
+surgry	surgery	the surgry was	False	False
+ni	i	can nI get	False	False
+gleevac	gleevec	on gleevac for	False	False
+clenical	clinical	the clenical trials	False	False
+aps	apps	get aps.	False	False
+metastisis	metastasis	, metastisis ,	False	False
+gleevac	gleevec	with gleevac?	False	False
+gleevac	gleevec	400mg Gleevac but	False	False
+metastized	metastasized	not metastized anywhere	False	False
+helle	hello	Helle.	True	False
+annonse	anyone	if annonse van	False	False
+tur	your	abort tur sideeffects	False	False
+lm	im	my lm so	False	False
+gleevac	gleevec	giving gleevac a	False	False
+toughts	thoughts	my toughts -NAME-	False	False
+suspious	suspicious	are suspious spots	False	False
+gleevac	gleevec	400mg gleevac for	False	False
+gleevac	gleevec	for Gleevac by	False	False
+ovarie	ovary	and ovarie.	False	False
+esle	else	anyone esle reading	False	False
+whe	when	'' whe the	False	False
+glevac	gleevec	. Glevac for	False	False
+gleevac	gleevec	my gleevac or	False	False
+yipee	yippee	Yipee!	True	False
+gleevic	gleevec	taken Gleevic for	False	False
+sutant	sutent	and Sutant.	False	False
+tsken	taken	have tsken Gleevec	False	False
+widespred	widespread	when widespred recurrence	False	False
+reoccurrance	recurrence	of reoccurrance i	False	False
+exxons	exons	multiple Exxons this	False	False
+gleevac	gleevec	start Gleevac in	False	False
+mestastis	metastasis	and mestastis to	False	False
+dan	dna	. dan testing	False	False
+diffinetly	definitely	is diffinetly improving	False	False
+truley	truly	and truley feel	False	False
+bleedin	bleeding	it bleedin worse	False	False
+cleevec	gleevec	with Cleevec.	False	False
+diagnoised	diagnosed	was diagnoised he	False	False
+vechile	vehicle	a vechile specialist	False	False
+gleevac	gleevec	it gleevac brain	False	False
+diagosed	diagnosed	just diagosed in	False	False
+rnumerous	numerous	have rnumerous regular	False	False
+srunk	shrunk	was srunk to	False	False
+mu	my	on mu face	False	False
+explane	explain	to explane to	False	False
+brfore	before	you brfore your	False	False
+gleevac	gleevec	started gleevac in	False	False
+sicky	sick	feel sicky if	False	False
+pottasium	potassium	my pottasium was	False	False
+tims	teams	his tims ,	False	False
+yaay	yay	Yaay congratulations	True	False
+orignal	original	the orignal molecule	False	False
+signficant	significant	is signficant as	False	False
+resectected	resected	have resectected stomachs	False	False
+ca	can	you ca not	False	False
+n	in	am n same	False	False
+ap	app	great ap for	False	False
+tomarrow	tomorrow	mine tomarrow.	False	False
+hav	have	. Hav you	False	False
+n	and	5cm n 3cm	False	False
+fo	for	Feb fo another	False	False
+takin	taking	to takin my	False	False
+kots	lots	ate kots of	False	False
+eatin	eating	keep eatin those	False	False
+fo	for	Ask fo a 	False	False
