@@ -18,6 +18,7 @@ https://www.mdpi.com/2414-4088/3/3/60
 After the publication of this paper, we developed a second spelling corpus for the community: The PsyTAR Spelling Corpus. It consists of 79 mistakes which were collected from the publicly available PsyTAR corpus. These mistakes were either spelling mistakes made by annotators (i.e. the extracted text contained a mistake the original text did not) or made by the forum users (i.e. in the extracted text the spelling mistake was corrected).
 
 The original corpus can be found at: https://sites.google.com/view/pharmacovigilanceinpsychiatry/home
+
 The PsyTAR corpus is a collection of posts from Askapatient.com in which patients recount their experiences with drugs related to psychiatric conditions. It was developed by M. Zolnoori and described in her paper: 
 
 The PsyTAR dataset: From patients generated narratives to a corpus of adverse drug events and effectiveness of psychiatric medications
