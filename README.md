@@ -1,4 +1,4 @@
-# SpellingCorpus: the Medical Misspelling Correction Corpus
+# The Medical Misspelling Correction Corpus
 
 The medical misspelling correction (MMC) corpus is a corpus of 99 spelling mistakes found in 1000 random posts of the GIST International Support Facebook forum for Gastro-Intestinal Stromal Tumor (GIST) patients. Their corrections were determined first individually by AR Dirkson and a GIST patient and forum user and then compared and agreed upon. If the correction could not be agreed upon, a third annotator resolved the matter. 
 
@@ -13,7 +13,7 @@ Dirkson AR, Verberne S, Sarker A and Kraaij W (2019). Data-driven Lexical Normal
 https://www.mdpi.com/2414-4088/3/3/60
 
 
-# Second Spelling Corpus: the PsyTAR Spelling Corpus
+# The PsyTAR Spelling Corpus
 
 After the publication of this paper, we developed a second spelling corpus for the community: The PsyTAR Spelling Corpus. It consists of 79 mistakes which were collected from the publicly available PsyTAR corpus. These mistakes were either spelling mistakes made by annotators (i.e. the extracted text contained a mistake the original text did not) or made by the forum users (i.e. in the extracted text the spelling mistake was corrected).
 
