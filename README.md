@@ -8,6 +8,10 @@ Due to anonymization of the data set, 24 instances were removed from the trainin
 
 For more detail please refer to: 
 
-Dirkson AR, Verberne S, Sarker A and Kraaij W (Under submission). Data-driven Lexical Normalization for Medical Social Media. Multimodal Technologies and Interaction [Text Mining in Complex Domains]. 
+Dirkson AR, Verberne S, Sarker A and Kraaij W (2019). Data-driven Lexical Normalization for Medical Social Media. Multimodal Technologies and Interaction, 3(3), 60 [Text Mining in Complex Domains]. 
+https://www.mdpi.com/2414-4088/3/3/60
 
 
+# Second Spelling Corpus
+
+The PsyTAR spelling 
